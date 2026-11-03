@@ -1,4 +1,4 @@
-
+pip install flask
 from flask import Flask, render_template_string, request, abort
 from urllib.parse import quote
 
